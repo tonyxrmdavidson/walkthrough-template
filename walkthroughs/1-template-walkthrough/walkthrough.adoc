@@ -23,6 +23,12 @@ I'm now doing the first task
 . Doing yet another step.
 . Do final step.
 
+[type=taskResource]
+.Useful links
+****
+* link:https://google.com[Task related link]
+****
+
 [type=verification]
 ====
 Did it work?
