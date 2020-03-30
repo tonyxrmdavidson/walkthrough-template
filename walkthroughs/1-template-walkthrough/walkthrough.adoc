@@ -23,6 +23,12 @@ I'm now doing the first task
 . Doing yet another step.
 . Do final step.
 
+[type=verification]
+Check that the dashboard of service X reports no errors.
+
+[type=verificationFail]
+Try turning it off and on again.
+
 [type=taskResource]
 .Useful links
 ****
