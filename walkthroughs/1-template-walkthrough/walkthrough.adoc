@@ -21,6 +21,7 @@ I'm now doing the first task
 . Do second step.
 . Do another step.
 . Doing yet another step.
+. Log in to the link:{openshift-url}[Red Hat OpenShift Console].
 . Do final step.
 
 [type=verification]
