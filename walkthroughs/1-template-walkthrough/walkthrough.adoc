@@ -20,6 +20,7 @@
 
 . Do first step.
 . Do second step.
+. Do final step.
 
 [type=verification]
 ====
