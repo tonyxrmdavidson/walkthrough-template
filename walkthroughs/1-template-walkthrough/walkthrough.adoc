@@ -1,6 +1,6 @@
 = My First Solution Pattern
 
-This is a template meant to be used as a starting point for walkthrough development
+This is a template meant to be used as a starting point for walkthrough development. 2nd try
 
 [type=walkthroughResource,serviceName=openshift]
 .Red Hat OpenShift
